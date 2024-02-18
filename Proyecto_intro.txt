@@ -1,0 +1,10 @@
+# Proyecto de Ciencia de Datos: Análisis de Propiedades Inmobiliarias
+
+## Introducción
+
+En el presente proyecto de Ciencia de Datos, nos embarcamos en el análisis exploratorio y modelado predictivo de un dataset que contiene información detallada sobre propiedades inmobiliarias. El conjunto de datos proviene de la ciudad de Ames, Iowa. El dataset tiene muchas características, proporcionando una visión multifacética de los distintos aspectos y características de las propiedades listadas.
+
+## Contexto y problema comercial 
+
+El proyecto de análisis de valores de viviendas en la ciudad de Ames, Iowa, se lleva a cabo en el contexto de un esfuerzo respaldado por el estado de Iowa para estimular el crecimiento y desarrollo económico de la ciudad. El estado de Iowa está interesado en aumentar la población de Ames con el propósito subyacente de mejorar la economía local. Para lograr este objetivo, es esencial proporcionar a posibles compradores y vendedores de viviendas una idea precisa de los valores de las propiedades en la ciudad. Esta información permitirá a los compradores tomar decisiones informadas y aumentará las posibilidades de venta de las viviendas en el mercado. Al comprender mejor el mercado de bienes raíces en Ames, se espera que se fomente la inversión y el crecimiento económico, beneficiando a la comunidad en su conjunto.
+
